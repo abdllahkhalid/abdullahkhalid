@@ -9,8 +9,8 @@
 ---
 
 ### 💼 Skills I currently have:
--html
--css
+- html
+- css
 - Python 🐍
 - Git & GitHub 🌐
 - Basic Data Analysis 📊
